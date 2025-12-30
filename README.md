@@ -21,17 +21,8 @@
 | **Databases & Services** | <img src="https://skillicons.dev/icons?i=mongodb" alt="mongo logo" title="MongoDB" /> &nbsp; <img src="https://skillicons.dev/icons?i=mysql" alt="sql logo" title="mysql" /> | 
 | **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=git" alt="git logo" title="git" /> &nbsp; <img src="https://skillicons.dev/icons?i=github" alt="github logo" title="Github" /> &nbsp; <img src="https://skillicons.dev/icons?i=githubactions" alt="gha logo" title="Githubactions" /> |
 
-###
 
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LegenD742&theme=dracula)
-
-</div>
-
-
-###
+### Contribution Heatmap
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LegenD742/LegenD742/output/pacman-contribution-graph-dark.svg">
