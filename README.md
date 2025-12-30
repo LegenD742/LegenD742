@@ -1,7 +1,24 @@
 <h1 align="center">Hey👋What's Up?</h1>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Sedan+SC&size=40&weight=600&duration=5000&pause=700&color=F5F5F5&background=15151500&center=true&vCenter=true&random=false&width=800&lines=Hey+There!+I'm+Devansh+Sapra;CS+Student+%7C+Tech+Enthusiast" alt="Typing SVG"/>
+</div>
+
+<h4>Full Stack Developer, Avid Coder, Tech Enthusiast who loves to tinker with code 🔧.</h4>
+- 📫 Reach me at: **devanshsapra7420@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devansh-sapra-67397a31a/) 
+[![Profile Views](https://komarev.com/ghpvc/?username=LegenD742&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/LegenD742)
+
 ### My Tech Stack
 
+| Category | Skills and Icons |
+|----------|-----------------|
+| **Programming Languages** | <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo" title="html" /> |
+| **Frontend Development** |
+| **Backend Development** |
+| **Databases & Services** |
+| **AI/ML Technologies** | 
+| **DevOps & Tools** |
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo" title="html" />
   <img width="12" />
